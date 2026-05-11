@@ -6,7 +6,9 @@ Aplikasi Flutter yang memungkinkan kamu **menggambar di udara** menggunakan gera
 
 ##  Demo
 
-https://github.com/user-attachments/assets/2e3893fd-e820-4941-a8d1-a4c68b007c01
+
+https://github.com/user-attachments/assets/345134fb-ed6c-4517-9f99-59e083695c0d
+
 
 ---
 
