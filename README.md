@@ -28,15 +28,15 @@ Model mendeteksi 21 landmark tangan secara real-time dari stream kamera, lalu ko
 
 ##  Fitur
 
-- **Hand Tracking Real-time** — AI tracking jari menggunakan MediaPipe
-- **Air Drawing** — Gambar di udara dengan gerakan jari telunjuk
-- **Multi-color** — 8 pilihan warna dengan visual feedback
-- **Stroke Width** — Atur ketebalan garis dengan slider
-- **Per-stroke Color** — Setiap garis menyimpan warnanya sendiri
-- **Spike Filter** — Filter otomatis untuk mengurangi gerakan tiba-tiba
-- **Smoothing** — Gerakan jari dihaluskan untuk hasil gambar yang lebih rapi
-- **Undo** — Hapus garis terakhir
-- **Clear Canvas** — Bersihkan semua gambar
+- **Hand Tracking Real-time** : AI tracking jari menggunakan MediaPipe
+- **Air Drawing** : Gambar di udara dengan gerakan jari telunjuk
+- **Multi-color** : 8 pilihan warna dengan visual feedback
+- **Stroke Width** : Atur ketebalan garis dengan slider
+- **Per-stroke Color** : Setiap garis menyimpan warnanya sendiri
+- **Spike Filter** : Filter otomatis untuk mengurangi gerakan tiba-tiba
+- **Smoothing** : Gerakan jari dihaluskan untuk hasil gambar yang lebih rapi
+- **Undo** : Hapus garis terakhir
+- **Clear Canvas** : Bersihkan semua gambar
 
 ---
 
